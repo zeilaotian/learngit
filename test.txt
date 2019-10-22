@@ -1,2 +1,3 @@
 I am e delete test.
 I added a branch named dev.
+Creating a new branch is quick AND simple.
